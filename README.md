@@ -1,4 +1,4 @@
-### chanbyeol's study
+## chanbyeol's study
 
 ### Python
 내용 : <br>
