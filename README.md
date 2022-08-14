@@ -1,13 +1,5 @@
 ## Chanbyeol's study
 
-### Machine learning
-내용 : ML 이론 및 실습 <br>
-해당 저장소로 [이동하기](https://github.com/chanbyeol01/ML_LIB_CLASS)
-
-### Deep learning
-내용 : DL 이론 및 실습 <br>
-해당 저장소로 [이동하기]()
-
 ### Data analysis
 내용 : 다양한 데이터 셋을 활용해 기본 EDA부터 기본 모델 생성 <br>
 해당 저장소로 [이동하기](https://github.com/chanbyeol01/MyDataAnalysis_2022)
