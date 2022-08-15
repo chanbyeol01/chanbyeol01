@@ -8,6 +8,9 @@
 내용 : 프로젝트 <br>
 해당 저장소로 [이동하기]()
 
+### Study
+내용 : 스터디 <br>
+해당 저장소로 [이동하기]()
 
 <!--
 **chanbyeol01/chanbyeol01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
