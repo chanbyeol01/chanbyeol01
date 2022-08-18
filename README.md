@@ -1,14 +1,12 @@
 ## Chanbyeol's study
 
 ### Data analysis
-내용 : 다양한 데이터 셋을 활용해 기본 EDA부터 기본 모델 생성 <br>
+Content : EDA & Model building using variable dataset
 해당 저장소로 [이동하기](https://github.com/chanbyeol01/MyDataAnalysis_2022)
 
 ### Project
-내용 : 프로젝트 <br>
 
 ### Study
-내용 : 스터디 <br>
 
 <!--
 **chanbyeol01/chanbyeol01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
