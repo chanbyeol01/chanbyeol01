@@ -2,7 +2,7 @@
 
 ### Data analysis
 Content : EDA & Model building using variable dataset
-해당 저장소로 [이동하기](https://github.com/chanbyeol01/MyDataAnalysis_2022)
+Repository [move](https://github.com/chanbyeol01/MyDataAnalysis_2022)
 
 ### Project
 
