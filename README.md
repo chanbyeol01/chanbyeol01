@@ -5,6 +5,7 @@ Content : EDA & Model building using variable dataset
 [Repository](https://github.com/chanbyeol01/MyDataAnalysis_2022)
 
 ### Project
+[Repository](https://github.com/chanbyeol01/Project)
 
 ### Study
 
